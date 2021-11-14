@@ -3,65 +3,8 @@
 body{
   font-family: "Saira Semi Condensed", sans-serif;
   background: #ecf0f1;
-}
-
-/* #drum-machine {
-  text-align: center;
-
-}
-
-.board-row {
-  background-color: gray;
-  
-  margin: 0 33%;
- margin-top: 70px; 
-  
-  border-radius: 0px 0px 15px 15px;
-   box-shadow: 2px 2px 2px 2px black; 
-  
-}
-
-.drum-pad {
-
-  width: 65px;
-	height: 65px;
-  position: inherit;
-  margin-right: 50px;
-  margin-left: 30px;
-  margin-bottom: 5px;
-  margin-top: 5px;
-  border-radius: 15px;
-  color: white;
-	background-color: black;
-}
-
-#sound-pads {
-  grid-template-columns: auto auto auto;
-  grid-template-rows: auto auto auto;
-  display: grid;
-  border-color: black;
-  border-style: solid;
-  overflow-x: hidden;
-}
-
-#display {
-  font-size: 30px;
-  background-color: #3C4C65;
-  border: 15px solid black;
-  border-radius: 15px 15px 0px 0px;
-  box-shadow: 2px 2px 2px 2px black;
-  color: #fff;
-  margin-right: 33.86%;
-  margin-left: 33%;
-}
-
-#project {
-  font-size: 50px;
-  color: tomato;
-} */
-body {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 #drum-machine {
