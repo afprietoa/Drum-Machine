@@ -7,7 +7,7 @@ export default class DrumMachine extends Component {
     constructor(props){
         super(props)
         this.state = {
-          display: 'Click or Press a Key'
+          display: 'Click or \b key press'
         }
       }
       
