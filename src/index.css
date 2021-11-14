@@ -100,7 +100,8 @@ body{
   color: tomato;
 }
 p{
-  font-size: 1.9rem;
+  font-size: 2.1rem;
   font-family: 'DS-DIGITAL', sans-serif;
   font-style: italic;
+  line-height: 2rem;
 }
