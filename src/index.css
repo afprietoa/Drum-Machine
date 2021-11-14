@@ -1,4 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Saira+Semi+Condensed");
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+@font-face{
+    font-family: 'DS-DIGITAL';
+    src: url('https://res.cloudinary.com/dzsmdyknz/raw/upload/v1532588680/fcc-drum-machine/ds-digital-font/DS-DIGIT.TTF');
+    src: url('https://res.cloudinary.com/dzsmdyknz/raw/upload/v1532588680/fcc-drum-machine/ds-digital-font/DS-DIGIB.TTF');
+    src: url('https://res.cloudinary.com/dzsmdyknz/raw/upload/v1532588679/fcc-drum-machine/ds-digital-font/DS-DIGII.TTF');
+    src: url('https://res.cloudinary.com/dzsmdyknz/raw/upload/v1532588679/fcc-drum-machine/ds-digital-font/DS-DIGI.TTF');
+}
 
 body{
   font-family: "Saira Semi Condensed", sans-serif;
@@ -91,5 +100,7 @@ body{
   color: tomato;
 }
 p{
-  font-size: 1.5rem;
+  font-size: 1.9rem;
+  font-family: 'DS-DIGITAL', sans-serif;
+  font-style: italic;
 }
