@@ -7,8 +7,7 @@ export default class DrumMachine extends Component {
     constructor(props){
         super(props)
         this.state = {
-          display:  `ㅤ  Click or ㅤ
-                     ㅤ press a keyㅤ ` 
+          display:  `SoundBox` 
         }
       }
       
@@ -35,6 +34,7 @@ export default class DrumMachine extends Component {
               />   
              ))}</button>
              </div>
+             <div id="project2">Click or press a key</div>
         </div>
         )
       }
